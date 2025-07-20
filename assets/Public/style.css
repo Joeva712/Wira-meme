@@ -1,0 +1,49 @@
+html{
+    font-size: 10px;
+}
+body{
+    background-color: black;
+}
+
+#acol{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-transform: uppercase;
+    font-size: 4rem;
+}
+
+#bcol{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+#ccol{
+    text-align: center;
+    margin: 0px;
+    font-size: 15px;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+#bol{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 90px;
+    text-align: center;
+}
+
+#bal{
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    margin-top: 20%;
+    
+}
